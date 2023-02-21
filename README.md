@@ -4,7 +4,7 @@ DDI session - 21 February 2023
 
 Click the "launch binder" button below to launch the interactive notebook.
 
-[BINDER LINK]
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chdesvages/ddi-intro-python-21feb23/HEAD?labpath=presentation.ipynb)
 
 ## Learn more...
 
